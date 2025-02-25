@@ -81,6 +81,7 @@ https://github.com/user-attachments/assets/3f2e6ae4-71db-46ff-9aaf-1cdb4bb35dcf
 
 **Technology:** Power BI, Power Query, DAX, SQL, AWS
 
+
 [Monster Brand Sales Tracker.pdf](https://github.com/user-attachments/files/18973392/Monster.Brand.Sales.Tracker.pdf)
 
 ## Project 7: Data Science Insights: C11 Campaign Forecast Dashboard
