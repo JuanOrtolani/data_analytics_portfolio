@@ -77,9 +77,9 @@ https://github.com/user-attachments/assets/3f2e6ae4-71db-46ff-9aaf-1cdb4bb35dcf
 
 ## Project 6: Monster Brand Sales Tracker
 
-**Brief:** This dashboard was developed to support the demand planning team. It was created with the goal of monitoring weekly performance in Forecast Accuracy, Logistics Accuracy, Production Accuracy, and deviations. 
+**Brief:** This dashboard is designed for the sales force and the board of Coca-Cola and Monster. It was created to track the sales evolution of the brand and each of its products, while also monitoring key metrics defined by Monster. 
 
-**Technology:** Power BI, Power Query, DAX, SQL, AWS
+**Technology:** Power BI, Power Query, DAX, SQL, AWS, Power Automate (to send daily details via email to the Monster team, who did not have access permissions to Coca-Cola's Power BI server).
 
 
 [Monster Brand Sales Tracker.pdf](https://github.com/user-attachments/files/18973392/Monster.Brand.Sales.Tracker.pdf)
