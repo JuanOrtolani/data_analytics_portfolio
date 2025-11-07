@@ -124,8 +124,11 @@ https://github.com/user-attachments/assets/9739dbcc-1fa6-449e-a773-5d2915c2f893
 **Brief:** This project pursued two main goals:
 1) Analyze the evolution of Net Sales, Customers, and Orders across different time frames (monthly, weekly, daily) and geographic levels (hubs and districts).
 2) Develop a dynamic share calculation for both user share and sales share by category, subcategory, and supplier including comparisons against the supplier’s previous months and key competitors.
+
 Both share metrics automatically recalculate based on the selected filters, allowing analysis at the total market level or within specific categories.
+
 To ensure data confidentiality, competitor share values were encrypted before sharing results with suppliers, preventing exposure of sensitive competitive information.
+
 This information is used for internal monitoring and decision making, as well as for supplier negotiations and performance follow ups, providing a clear view of competitive dynamics and market trends.
 
 **Technology:** Power BI, Power Query, DAX, SQL, Google Cloud Platform
