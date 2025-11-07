@@ -24,6 +24,8 @@ Welcome to my Data Analysis Portfolio! This collection highlights my expertise a
 - **Project 7:** Data Science Insights: C11 Campaign Forecast Dashboard
 - **Project 8:** Advanced Analytics: Key Metrics Comparison Dashboard
 - **Project 9:** Data Trust Dashboard: Ensuring Database Accuracy
+- **Project 10:** Commercial Campaign Analysis Dashboard
+- **Project 11:** Market Behavior and Supplier Share Analysis
 
 **Note:** *The data displayed in the dashboards has been altered in order to ensure it does not represent actual information, safeguarding the confidentiality of the companies involved.*
 
@@ -107,6 +109,28 @@ https://github.com/user-attachments/assets/89f3fded-9d8c-4f6b-a532-434f057986b1
 **Technology:** Tableau, Tableau Prep, SQL, Snowflake, Python, Excel
 
 https://github.com/user-attachments/assets/0e0dae9e-dbc7-4899-9e61-2b3f5237bb37
+
+## Project 10: Commercial Campaign Analysis Dashboard
+
+**Brief:** Developed a dynamic Power BI dashboard to collaborate with the Growth and Revenue teams in evaluating the impact of commercial campaigns.
+The solution consolidates all campaigns and compares key performance indicators (Users, Net Sales, Orders, Average Ticket, and Purchase Frequency) across three time windows: two weeks before, during, and two weeks after each campaign.
+
+**Technology:** Power BI, Power Query, DAX, SQL, Google Cloud Platform
+
+https://github.com/user-attachments/assets/9739dbcc-1fa6-449e-a773-5d2915c2f893
+
+## Project 11: Market Behavior and Supplier Share Analysis
+
+**Brief:** This project pursued two main goals:
+1) Analyze the evolution of Net Sales, Customers, and Orders across different time frames (monthly, weekly, daily) and geographic levels (hubs and districts).
+2) Develop a dynamic share calculation for both user share and sales share by category, subcategory, and supplier including comparisons against the supplier’s previous months and key competitors.
+Both share metrics automatically recalculate based on the selected filters, allowing analysis at the total market level or within specific categories.
+To ensure data confidentiality, competitor share values were encrypted before sharing results with suppliers, preventing exposure of sensitive competitive information.
+This information is used for internal monitoring and decision making, as well as for supplier negotiations and performance follow ups, providing a clear view of competitive dynamics and market trends.
+
+**Technology:** Power BI, Power Query, DAX, SQL, Google Cloud Platform
+
+https://github.com/user-attachments/assets/99b2d4b7-1a9c-4e94-bc2a-2c7dd96630e7
 
 ## Contact Information
 
